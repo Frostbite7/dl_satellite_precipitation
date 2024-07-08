@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/infrared.iml" filepath="$PROJECT_DIR$/.idea/infrared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ps2/logistic reg/.idea/logistic reg.iml" filepath="$PROJECT_DIR$/../../ps2/logistic reg/.idea/logistic reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../prediction/.idea/prediction.iml" filepath="$PROJECT_DIR$/../prediction/.idea/prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cs229/ps solve/ps3_5/.idea/ps3_5.iml" filepath="$PROJECT_DIR$/../../cs229/ps solve/ps3_5/.idea/ps3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cs229/ps solve/ps4-1/.idea/ps4-1.iml" filepath="$PROJECT_DIR$/../../cs229/ps solve/ps4-1/.idea/ps4-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../cs229/ps solve/ps4-4/.idea/ps4-4.iml" filepath="$PROJECT_DIR$/../../cs229/ps solve/ps4-4/.idea/ps4-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ps2/spam_data/.idea/spam_data.iml" filepath="$PROJECT_DIR$/../../ps2/spam_data/.idea/spam_data.iml" />
+    </modules>
+  </component>
+</project>
